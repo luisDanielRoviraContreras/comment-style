@@ -1,7 +1,7 @@
 {
   "name": "comment-style",
   "main": "./lib/comment-style",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "comments with a more differential style to visualize more easily",
   "keywords": [
     "comment",
