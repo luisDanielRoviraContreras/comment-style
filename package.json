@@ -1,0 +1,19 @@
+{
+  "name": "comment-style",
+  "main": "./lib/comment-style",
+  "version": "0.0.0",
+  "description": "comments with a more differential style to visualize more easily",
+  "keywords": [
+    "comment",
+    "style",
+    "color",
+    "editor"
+  ],
+  "repository": "https://github.com/luisDanielRoviraContreras/comment-style",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

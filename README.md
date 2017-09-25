@@ -1,6 +1,18 @@
 # comment-style package
 
-A short description of your package.
+comments with a more differential style to visualize more easily.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-# comment-style
+# install
+
+Atom Package Manager (APM):
+```bash
+apm install comment-style
+```
+# Screenshots
+
+![preview gif](https://i.imgur.com/QcJEJz7.gif)
+
+![preview gif](https://i.imgur.com/cVbJy9N.gif)
+# LusaxWeb
+
+this plugin is creator by [lusaxweb](http://www.lusaxweb.com.ve/)
